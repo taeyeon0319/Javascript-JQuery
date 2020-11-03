@@ -1,0 +1,46 @@
+
+#small-pic {
+    margin-top:20px;
+    list-style: none;
+    padding:0;			
+}
+#small-pic > li {
+    float:left;
+    margin-right:10px;
+}
+.small {
+    width:80px;
+    height:80px;
+}
+#small-pic img:hover {
+    cursor:pointer;
+}		
+#desc {  
+    padding-top:20px;
+    margin-bottom:50px;
+    margin-left:550px;
+}
+.bluetext {
+    color:#4343ff;
+    font-weight:bold;
+}
+#desc button {
+    margin-top:20px;
+    width:100%;
+    padding:10px;
+    width:100px;
+    margin-right:10px;
+}
+#desc ul {
+    list-style:none;
+}
+#desc li{
+    font-size:0.9em;
+    line-height:1.8;
+} 
+#desc a {
+    text-decoration: none;
+    font-size:0.9em;
+    color:blue;
+    padding-left:40px;
+}
